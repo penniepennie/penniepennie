@@ -1,6 +1,6 @@
 # ![👋](https://emojis.slackmojis.com/emojis/images/1694145965/68613/cute-meow.gif?1694145965) Hey there, I'm [Pen]! ![👋](https://emojis.slackmojis.com/emojis/images/1694145965/68613/cute-meow.gif?1694145965)
 ---
-I'm a *college student* from the Philippines 🇵🇭, working on fun and exciting projects focused on **Mobile📱, Gaming 🎮 , Web️ Application Development🖱 and U/UX Design💡**.
+I'm a *college student* from the Philippines 🇵🇭, working on fun and exciting projects focused on **Mobile📱, Gaming 🎮 , Web️ Application Development🖱 and UI/UX Design💡**.
 
 - 🧠 I'm currently learning *Unity Engine 6* and *React*.
 - 🧑‍💻 I'm currently working on a *2D pixel horror Android game* called **Takbo**, developed using *Godot*.
