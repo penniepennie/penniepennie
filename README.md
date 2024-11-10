@@ -15,7 +15,7 @@ I'm a *college student* from the Philippines 🇵🇭, working on fun and exciti
 
 ## My Projects
 ---
-[![**Takbo**](./Takbo_Banner.png)]()]
+[![**Takbo**](./Takbo_Banner.png)]()
 
 
 ## Where to find me
